@@ -1,0 +1,54 @@
+#ticker div {
+	color: #ffde52;
+	position: relative;
+	left: 5%;
+	top: 2em;
+	margin-bottom: 3rem;
+}
+
+.about {
+	position: relative;
+	top: 4em;
+	font-size: .7rem;
+	color: silver;
+}
+
+/*.specialh {
+	color: maroon !important;
+}*/
+
+.center-wrapper {
+	text-align: center;
+	margin-top: .5rem;
+	margin-bottom: .5rem;
+}
+.center-wrapper * {
+	margin: 0 auto;
+}
+
+/*ui-btn {
+	color:  red;
+}*/
+
+/*h3.ui-collapsible-heading ui-collapsible-heading-collapsed {
+	color:  red !important;
+}*/
+
+/*.ui-collapsible-heading, .ui-collapsible-heading-collapsed, .ui-collapsible-heading-toggle, .ui-btn, .ui-icon-plus, .ui-btn-b {
+	color: silver !important;
+	font: .8rem "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif !important;
+}*/
+
+.ui-icon-plus, .ui-collapsible-heading-collapsed, .ui-collapsible-heading-toggle {
+	font: .8rem "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif !important;
+	color: silver !important;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.ui-body-b, .ui-page-theme-b .ui-body-inherit, html .ui-bar-b .ui-body-inherit, html .ui-body-b .ui-body-inherit, html body .ui-group-theme-b .ui-body-inherit, html .ui-panel-page-container-b p {
+	font: .8rem "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif !important;
+	color: silver !important;
+	margin-left: 10%;
+	margin-right: 10%;
+}

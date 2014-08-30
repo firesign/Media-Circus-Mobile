@@ -1,0 +1,33 @@
+CACHE MANIFEST
+
+#version 1.4 8-9-2014
+
+CACHE:
+
+#images
+http://nscadesign.ca/cutup/img/ios/icon@2x.png
+http://nscadesign.ca/cutup/img/ios/icon-40@2x.png
+http://nscadesign.ca/cutup/img/ios/icon-60@2x.png
+http://nscadesign.ca/cutup/img/ios/icon-72.png
+http://nscadesign.ca/cutup/img/ios/icon-72@2x.png
+http://nscadesign.ca/cutup/img/ios/icon-76@2x.png
+http://nscadesign.ca/cutup/img/ios/iconSmall.png
+http://nscadesign.ca/cutup/img/ios/icon.png
+
+#internal HTML documents
+http://nscadesign.ca/cutup/index.php
+
+#style sheets
+http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.css
+http://fonts.googleapis.com/css?family=Source+Code+Pro:500
+http://nscadesign.ca/cutup/css/styles.css?v=1.0
+
+#style sheet images
+
+
+#javascript files
+http://code.jquery.com/jquery-1.11.1.min.js
+http://code.jquery.com/mobile/1.4.3/jquery.mobile-1.4.3.min.js
+
+NETWORK:
+*
